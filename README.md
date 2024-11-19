@@ -130,4 +130,5 @@ JAWAB
 ![Screenshot 2024-11-14 114414](https://github.com/user-attachments/assets/5226d0df-065e-4368-ba8e-cdb108836b8f)
 
 Hasilnya
-![Screenshot 2024-11-14 114315
+![Screenshot 2024-11-20 065158](https://github.com/user-attachments/assets/5a1b3a5c-da87-4369-b820-157e932b8d4a)
+
