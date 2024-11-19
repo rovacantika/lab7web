@@ -56,7 +56,8 @@ Predefine Variable $_GET
 ![Screenshot 2024-11-13 173438](https://github.com/user-attachments/assets/6f98dd1e-fa51-49a1-b28a-74fb91c5f3ae)
 
 Hasilnya
-![Screenshot 2024-11-13 173409](https://github.com/user-attachments/assets/c5b42d7f-8ed0-4d33-9cad-a391c9c8ded1)
+![Screenshot 2024-11-20 063201](https://github.com/user-attachments/assets/329f3951-7573-4086-ace7-1da13639f5f5)
+
 
 Membuat Form Input
 
