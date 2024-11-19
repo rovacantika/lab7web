@@ -44,10 +44,12 @@ Hasilnya
 Variable PHP
 
 Menambahkan variable pada program.
-![Screenshot 2024-11-13 171427](https://github.com/user-attachments/assets/96888b01-bb3e-422d-9d46-eb30f273702e)
+![Screenshot 2024-11-20 062006](https://github.com/user-attachments/assets/6a706983-723d-4970-a8c9-4fb3fce2408e)
+
 
 Hasilnya
-![Screenshot 2024-11-13 171308](https://github.com/user-attachments/assets/3f80e1a8-0889-4b99-8737-68a46d88d815)
+![Screenshot 2024-11-20 062900](https://github.com/user-attachments/assets/5f0e5973-221a-4b6e-887a-0be382d6c426)
+
 
 Predefine Variable $_GET
 
