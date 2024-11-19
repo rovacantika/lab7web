@@ -81,6 +81,7 @@ Kondisi IF
 ![Screenshot 2024-11-14 112854](https://github.com/user-attachments/assets/35112a5b-8d64-48ec-920f-22c0705f48f3)
 
 Hasilnya
+
 ![Screenshot 2024-11-15 091013](https://github.com/user-attachments/assets/a45c9f1b-ab99-4f42-a947-e024f9c0b1fb)
 
 Kondisi Switch
@@ -88,6 +89,7 @@ Kondisi Switch
 ![Screenshot 2024-11-14 113123](https://github.com/user-attachments/assets/81fabe96-4df8-4a16-8c1e-96d4e6d538df)
 
 Hasilnya
+
 ![Screenshot 2024-11-15 091104](https://github.com/user-attachments/assets/088fd192-46a9-47e8-88dc-a70fd67d773d)
 
 Perulangan for
