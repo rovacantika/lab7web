@@ -65,7 +65,8 @@ Membuat Form Input
 ![Screenshot 2024-11-13 182118](https://github.com/user-attachments/assets/06f09dc7-9bf5-4b2b-91a2-9d8b3d8f6fb5)
 
 Hasilnya 
-![Screenshot 2024-11-13 182048](https://github.com/user-attachments/assets/14f9ac7d-5f40-48af-ac9d-52d6e47f39a9)
+![Screenshot 2024-11-20 063538](https://github.com/user-attachments/assets/02f15bf6-37fb-47cf-8f05-513fd301cc00)
+
 
 Operator
 
