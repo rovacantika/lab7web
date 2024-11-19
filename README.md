@@ -38,7 +38,7 @@ Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat 
 ![Screenshot 2024-11-13 170953](https://github.com/user-attachments/assets/8bca6586-e014-406f-91c5-83981d4c1d5a)
 
 Hasilnya
-![Screenshot 2024-11-13 170816](https://github.com/user-attachments/assets/9a1d6bd0-6dcb-4ff8-b1fd-023ced89628a)
+![Screenshot 2024-11-20 062503](https://github.com/user-attachments/assets/693af4d5-aa0c-45b1-9b9e-4dc0a0989ad9)
 
 Variable PHP
 
