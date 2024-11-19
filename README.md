@@ -73,21 +73,22 @@ Operator
 ![Screenshot 2024-11-14 112711](https://github.com/user-attachments/assets/2314eaae-c84a-409d-9203-4599fc831425)
 
 Hasilnya 
-![Screenshot 2024-11-14 112614](https://github.com/user-attachments/assets/2e8249ec-3835-4fef-8c86-6b3be6979467)
+![Screenshot 2024-11-20 063721](https://github.com/user-attachments/assets/30e67abc-e6a9-4fec-87af-3b07135b4aa5)
+
 
 Kondisi IF
 
 ![Screenshot 2024-11-14 112854](https://github.com/user-attachments/assets/35112a5b-8d64-48ec-920f-22c0705f48f3)
 
 Hasilnya
-![Screenshot 2024-11-14 112828](https://github.com/user-attachments/assets/96704599-1dba-4e83-8de6-3ed395de7197)
+![Screenshot 2024-11-15 091013](https://github.com/user-attachments/assets/a45c9f1b-ab99-4f42-a947-e024f9c0b1fb)
 
 Kondisi Switch
 
 ![Screenshot 2024-11-14 113123](https://github.com/user-attachments/assets/81fabe96-4df8-4a16-8c1e-96d4e6d538df)
 
 Hasilnya
-![Screenshot 2024-11-14 163818](https://github.com/user-attachments/assets/5b972f17-0d3c-466c-8b58-e51ae8fd0364)
+![Screenshot 2024-11-15 091104](https://github.com/user-attachments/assets/088fd192-46a9-47e8-88dc-a70fd67d773d)
 
 Perulangan for
 
