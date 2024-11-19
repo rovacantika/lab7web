@@ -30,7 +30,8 @@ Gambar2. Directory Lab7
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
 Gambar3. Tampilan Web Server
 
-![Screenshot 2024-11-13 170658](https://github.com/user-attachments/assets/6cb7a092-ca2c-4fe3-b40d-417213f7698f)
+![Screenshot 2024-11-20 062705](https://github.com/user-attachments/assets/4c2d2735-8ef1-48fe-8417-790ffd877f3d)
+
 
 PHP Dasar
 
