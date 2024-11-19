@@ -97,21 +97,26 @@ Perulangan for
 ![Screenshot 2024-11-14 113310](https://github.com/user-attachments/assets/08d61a30-af82-4c0e-b08b-5dfa4dc885e3)
 
 Hasilnya
-![Screenshot 2024-11-14 113654](https://github.com/user-attachments/assets/260a9d2c-ad41-432e-b9cd-aa2d19af040b)
+
+![Screenshot 2024-11-20 064108](https://github.com/user-attachments/assets/d8d52582-521b-49a5-a191-efa659d21629)
+
 
 Perulangan while
 
 ![Screenshot 2024-11-14 113855](https://github.com/user-attachments/assets/81865f3a-163c-4b1e-8129-c4c060141af8)
 
 Hasilnya
-![Screenshot 2024-11-14 113837](https://github.com/user-attachments/assets/f56989a3-a089-46ed-b86a-2ef03536bd5f)
+
+![Screenshot 2024-11-20 064201](https://github.com/user-attachments/assets/53fe130f-2ab6-40c4-b104-6947e0a34a38)
+
 
 Perulangan dowhile
 
 ![Screenshot 2024-11-14 114008](https://github.com/user-attachments/assets/ee541209-e9d4-4857-aedb-d59cc5963244)
 
 Hasilnya
-![Screenshot 2024-11-14 113950](https://github.com/user-attachments/assets/01a00f67-8011-4360-a785-080cde905122)
+
+![Screenshot 2024-11-20 064236](https://github.com/user-attachments/assets/4098180e-00b1-48ca-b90e-4802b4939e1b)
 
 
 Pertanyaan dan Tugas
